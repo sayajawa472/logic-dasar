@@ -4,9 +4,6 @@ import (
 	"fmt"
 )
 
-func main() {
-	Logic01Soal03Ke03()
-}
 func Logic01Soal03Ke03() {
 	//membuat variable e nilainya 10
 	e := 10

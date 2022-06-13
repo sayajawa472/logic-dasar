@@ -1,11 +1,6 @@
-package main
+package logic01
 
 import "fmt"
-
-func main() {
-	Logic01Soal05(15)
-	//15 itu n
-}
 
 //setiap kelipat 3 fizz
 //setiap kelipatan 5 buzz

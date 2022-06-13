@@ -2,11 +2,6 @@ package pengulangan_logic01_soal05
 
 import "fmt"
 
-func main() {
-	Logic01Soal05ke01(15)
-	//15 itu n
-}
-
 //setiap kelipat 3 fizz
 //setiap kelipatan 5 buzz
 //kelipatan 3&5 fizz buzz

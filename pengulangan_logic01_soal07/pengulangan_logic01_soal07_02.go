@@ -1,12 +1,8 @@
-package main
+package pengulangan_logic01_soal07
 
 import "fmt"
 
-func main() {
-	Logic01Soal07()
-}
-
-func Logic01Soal07() {
+func Logic01Soal07Ke02() {
 	n := 10
 	angkatetap := 4
 	angkakelipatan3 := 3

@@ -2,10 +2,6 @@ package pengulangan_logic01_soal04
 
 import "fmt"
 
-func main() {
-	Logic01Soal04Ke04()
-}
-
 func Logic01Soal04Ke04() {
 	n := 10
 	x := 777

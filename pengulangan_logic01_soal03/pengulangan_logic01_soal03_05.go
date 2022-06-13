@@ -2,9 +2,6 @@ package pengulangan_logic01_soal03
 
 import "fmt"
 
-func main() {
-	Logic01Soal03Ke05()
-}
 func Logic01Soal03Ke05() {
 	//membuat variable j nilainya 10
 	j := 10

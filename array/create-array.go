@@ -1,4 +1,4 @@
-package main
+package array
 
 /*
 1 2 3 => baris 0, kolom 0, 1, 2

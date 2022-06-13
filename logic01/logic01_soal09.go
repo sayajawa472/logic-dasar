@@ -1,10 +1,6 @@
-package main
+package logic01
 
 import "fmt"
-
-func main() {
-	Logic01Soal09()
-}
 
 func Logic01Soal09() {
 	n := 12

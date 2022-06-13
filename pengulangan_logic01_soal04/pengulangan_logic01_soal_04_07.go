@@ -2,11 +2,7 @@ package pengulangan_logic01_soal04
 
 import "fmt"
 
-func main() {
-	Logic01Soal04Ke07()
-}
-
-func Logic01Soal04Ke07() {
+func PengulanganLogic01Soal04Ke07() {
 	n := 10
 	x := 777
 	// membuat deret angka menggunakan for
